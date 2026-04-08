@@ -46,3 +46,26 @@ This implementation runs entirely on an FPGA without the use of a general-purpos
 #define PS2_BASE_PRIMARY      0xFF200100  // PS/2 keyboard
 #define PS2_BASE_MOUSE        0xFF200108  // PS/2 mouse
 #define AUDIO_BASE            0xFF203040  // Audio codec
+
+## Future Enhancements
+
+- **Network Multiplayer**: Connect two DE1-SoC boards over Ethernet
+- **Power-ups**: Speed boosts, invincibility, trail erasing
+- **High Score Table**: Store top scores in on-board flash
+- **Custom Arena Editor**: User-defined obstacle layouts
+- **Enhanced AI**: Machine learning-based opponent
+- **Replay System**: Record and playback game sessions
+- **Additional Sound Effects**: Trail drawing, scoring sounds
+- **Smooth Animation**: Sub-pixel movement with interpolation
+
+## References
+
+- [DE1-SoC User Manual](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=836)
+- [VGA Timing Standards](http://tinyvga.com/vga-timing)
+- [PS/2 Keyboard Protocol](https://wiki.osdev.org/PS/2_Keyboard)
+- [I2S Audio Specification](https://www.nxp.com/docs/en/user-guide/UM10204.pdf)
+- [ARM Cortex-A9 MPCore Technical Reference Manual](https://developer.arm.com/documentation/ddi0407)
+
+## License
+
+This project was developed for educational purposes as part of ECE243 coursework at the University of Toronto.
