@@ -1,2 +1,5 @@
 # ECE243_Tron
 Tron Light Cycle Game for DE1-SoC | Real-time two-player arcade action with VGA output, PS/2 keyboard controls, trail-based collision, and audio feedback. Features single-player mode with predictive AI, multiple difficulty levels (open arena/obstacles/maze), and an interactive mouse-driven menu system.
+
+# Block Diagram
+<img width="1920" height="1080" alt="Tron Final Block Diagram" src="https://github.com/user-attachments/assets/8b11caba-bc32-4a57-a360-3ddcc7dd81e7" />
