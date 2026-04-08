@@ -46,6 +46,7 @@ This implementation runs entirely on an FPGA without the use of a general-purpos
 #define PS2_BASE_PRIMARY      0xFF200100  // PS/2 keyboard
 #define PS2_BASE_MOUSE        0xFF200108  // PS/2 mouse
 #define AUDIO_BASE            0xFF203040  // Audio codec
+```
 
 ## Future Enhancements
 
