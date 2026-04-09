@@ -7,6 +7,12 @@ This implementation runs entirely on an FPGA without the use of a general-purpos
 # Block Diagram
 <img width="1920" height="1080" alt="Tron Final Block Diagram" src="https://github.com/user-attachments/assets/8b11caba-bc32-4a57-a360-3ddcc7dd81e7" />
 
+## Demo
+
+Demonstration video showcasing gameplay, hardware connections, and system functionality:
+
+[![TRON Gameplay Demo]([https://img.youtube.com/vi/lrx1eEmmQ_I/maxresdefault.jpg)](https://youtu.be/lrx1eEmmQ_I](https://youtu.be/mhJHzjsHefQ))
+
 # Features
 | Feature | Description |
 |---------|-------------|
