@@ -11,7 +11,7 @@ This implementation runs entirely on an FPGA without the use of a general-purpos
 
 Demonstration video showcasing gameplay, hardware connections, and system functionality:
 
-[![TRON Gameplay Demo]([https://img.youtube.com/vi/lrx1eEmmQ_I/maxresdefault.jpg)](https://youtu.be/lrx1eEmmQ_I](https://youtu.be/mhJHzjsHefQ))
+[![TRON Gameplay Demo](https://img.youtube.com/vi/mhJHzjsHefQ/maxresdefault.jpg)](https://youtu.be/mhJHzjsHefQ)
 
 # Features
 | Feature | Description |
